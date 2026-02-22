@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 Here’s a walkthrough of the implemented features:
 
-<img src="Campgrounds.gif" width="300" />
+<img src="media/Campgrounds.gif" width="300" />
 
 ---
 
